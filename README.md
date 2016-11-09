@@ -1,4 +1,4 @@
 # Election_Forecast
 Forecasting swing state outcomes
 
-![Image Png](image.png)
+![Image Png](https://raw.githubusercontent.com/tianhuil/Election_Forecast/master/image.jpeg)
